@@ -8,7 +8,7 @@ jobs:
     outputs:
       modpacks: ${{ steps.list-modpacks.outputs.modpacks }}
     steps:
-      - name: Checkout 
+      - name: Checkout
         uses: actions/checkout@v3
       - id: list-modpacks
         name: List modpacks

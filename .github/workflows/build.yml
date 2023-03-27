@@ -1,7 +1,3 @@
----
-  name: Merge me!
-  uses: ridedott/merge-me-action@v2.8.35
----
 name: Build modpacks
 on: push
 jobs:
@@ -65,8 +61,7 @@ jobs:
       - name: Push to repository
         uses: peaceiris/actions-gh-pages@v3
         with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ GITHUB_TOKEN }}
           publish_dir: ./build
           publish_branch: build
           force_orphan: true

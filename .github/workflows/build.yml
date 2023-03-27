@@ -1,6 +1,7 @@
 ---
 - name: Merge me!
   uses: ridedott/merge-me-action@v2.8.35
+---
 name: Build modpacks
 on: push
 jobs:

@@ -1,7 +1,6 @@
+---
 name: Build modpacks
 on: push
-permissions:
-  contents: write
 jobs:
   index-modpacks:
     name: Generate matrix based on available modpacks

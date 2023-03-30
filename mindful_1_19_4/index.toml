@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "fd92e07ac57fed5872f314075fcf048b3b5f79788f2ffaed575755b2573fb637"
+
+[[files]]
+file = "mods/CleanF3-0.2.2 for mc 1.19.4.jar"
+hash = "b335fe2a41045f6d9fbb676d1b5e45d538eb0b8275ba0a422822fccf2744b9a9"
+
+[[files]]
+file = "mods/DCCH-2.0+1.17.jar"
+hash = "2de475e4b09423b3e29e70efa41582f9ad58e437f8611edbbfedd215246fc1cb"
+
+[[files]]
+file = "mods/InGameAccountSwitcher-Fabric-1.19.4-8.0.1.1.jar"
+hash = "59c0396a773c3e4a9a40ca02a6b70398feac4cfd52341104a7a574b9733df7b4"
+
+[[files]]
+file = "mods/Sodium-Fix-1.0.2.jar"
+hash = "4e0321188e1a5fa8232a248396c1bbe3648b0c240d144f91d88f690b587e14ff"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "6e37a53e0cc21c40bc27956d667189c278cefe61dab2a798fd4ba39bbf741687"
 metafile = true
@@ -11,9 +31,17 @@ hash = "2dc14d7d149dbdc02af2c9cc9c5786078876464c0ca9129f2818040bcff038a5"
 metafile = true
 
 [[files]]
+file = "mods/axolotlbuckets-1.1.0+1.19.3.jar"
+hash = "62b4794c1255b2d06ecb3a0e075795dec7172e365b5bbf61ff3dfef69941fd48"
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "d2898c14ae88932c3cb0bfc9c7bdc5e11b78b9d8d68fcf9f88fb8cd7395b617e"
 metafile = true
+
+[[files]]
+file = "mods/bobby-4.0.4.jar"
+hash = "40f068bc7aa740999f8bfd53a07bdf9000a753fbf0998f0d640ac4ebde212ea1"
 
 [[files]]
 file = "mods/bobby.pw.toml"
@@ -91,6 +119,10 @@ hash = "786f504c5fb484ede00b457effe2f297d3b4bbfbab324e591672611b84defcb2"
 metafile = true
 
 [[files]]
+file = "mods/dark-graph-1.0.3.jar"
+hash = "f29cc11558e752754ca46053eb50019c948df634be2eb2cb4d2215fa7abcdfe4"
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "a69c0dac19f72ce386dd12ac8ba7484915048287b73247959613c35a92041f12"
 metafile = true
@@ -114,6 +146,10 @@ metafile = true
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "3cacaa139229faccd6011df18a61980736047c29639208504f69404a4677bb28"
 metafile = true
+
+[[files]]
+file = "mods/entity_model_features_0.1.6_mc1.19.4-0.1.6.jar"
+hash = "6be6fdc73bd3c48f5c4f4f409279179bc62df0bbc7ca1d483217dc3275c4d5d0"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -161,6 +197,10 @@ hash = "35f10ece07ceb3163668e12949cffdb16340b13ee9d6e5e09c81d6a70002b129"
 metafile = true
 
 [[files]]
+file = "mods/freecam-fabric-modrinth-1.1.9+1.19.jar"
+hash = "7488f2ba786fbb85f9ddfe192ea178e68111390d062b870ae5ba0a96cb9f78bb"
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "fe4f2d52682927e250eb088f8b59d9cdf3dedcbd5886b8cabb6db87aa19b5d83"
 metafile = true
@@ -184,6 +224,10 @@ metafile = true
 file = "mods/krypton.pw.toml"
 hash = "14e54e8764a04369a8774f9addfc15f81b3793803df26b4a38ad21fa05619dbb"
 metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-2.2.1+1.19.4.jar"
+hash = "e4b274d69f0c393593c50e6140dc46523e4d4c0031d1fa154d0a969bb30545c9"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -218,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "985c7e59f8f3fc2aaa7f6d4fe27b97a426e8056577f298aa0749a11164ed5730"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "16028256de8bb7d44dfe511461f1d904b65769cfe955f02c0a39fb93d21e76b9"
 metafile = true
 
 [[files]]
@@ -276,6 +325,10 @@ hash = "1008b77fa9edd6781691471271e1b948ebb7009e1b82554ac33c0a5863eba55e"
 metafile = true
 
 [[files]]
+file = "mods/one-time-overrides-v1.0.1.jar"
+hash = "42346a624ecc48b8e9777615dbf362255b0ed19f9b926bf1a1a1940d8eb26512"
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6c0cff17fdbccd1eaa2491a3bd41ccc1820513c8dcfad6ce1420a945adfff678"
 metafile = true
@@ -291,6 +344,10 @@ hash = "c219a3b1989f828f056a60a00cf20e2254ad4eb577b63e1eedd6a694b018a81a"
 metafile = true
 
 [[files]]
+file = "mods/replaymod-1.19.4-2.6.12.jar"
+hash = "dae117b480fa5d408bd831c1e015bf67bd19b7397eb77883c082b020c803337f"
+
+[[files]]
 file = "mods/resclone.pw.toml"
 hash = "5348877cb833d2b1804b8bb2d22d6e653cdc6936e891d4c21545739a050d49c8"
 metafile = true
@@ -299,6 +356,10 @@ metafile = true
 file = "mods/server-resourcepack-checker.pw.toml"
 hash = "76f87d90562286218d396d8af2d584731b60022e431804e8860a45efa6b68fa0"
 metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip-fabric-3.2.5+1.19.4.jar"
+hash = "df35b4954e1e98e5a3e5ff9123a41e0f4c202b7b5218017232603190755dc05d"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -343,6 +404,16 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "c0d1d4311769f50f779c9c7133ae99dd1c64650adc07b3924c12501a0eeed823"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "c0d1d4311769f50f779c9c7133ae99dd1c64650adc07b3924c12501a0eeed823"
+metafile = true
+
+[[files]]
+file = "mods/twitch-chat.pw.toml"
+hash = "a82951624a1f6a8b08a03d3336af108a87c9e2f4f83256cc0bf2dd821241aacc"
 metafile = true
 
 [[files]]

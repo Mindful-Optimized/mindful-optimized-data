@@ -1,13 +1,13 @@
 name = "Mindful Optimized 1.19.4"
 author = "Lautner"
-version = "6.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bf37758bc72722815dc87b94371cf9bb84d33bd50a7fa260ffade86bf7352af2"
+hash = "d85ba01da758c26deaf582b248ebfc9eb64b6a241ea9b6d707fb59fc194ddcca"
 
 [versions]
-quilt = "0.14.17"
 minecraft = "1.19.4"
+quilt = "0.18.6"

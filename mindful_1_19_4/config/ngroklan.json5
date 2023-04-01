@@ -1,0 +1,7 @@
+{
+	"enabledCheckBox": true,
+	"authToken": "AuthToken",
+	"regionSelect": "US",
+	"onlineCheckBox": true,
+	"spawnProtectionRadius": 16
+}

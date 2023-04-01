@@ -1,0 +1,13 @@
+name = "Fresh Animations Extensions"
+filename = "FA+Creepers-v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f3cab52a3c8fd84f24810c7c7a8abc35d6cc576"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4354490
+project-id = 813608

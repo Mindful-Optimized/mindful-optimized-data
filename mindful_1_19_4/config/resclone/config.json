@@ -1,0 +1,6 @@
+{
+  // The packs to be loaded by resclone
+  packs: [],
+  // Whether to prune unused packs from the cache
+  pruneUnused: true
+}

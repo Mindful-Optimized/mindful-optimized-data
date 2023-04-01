@@ -1,0 +1,13 @@
+name = "Leviosa"
+filename = "Leviosa.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b802b5ec0c0a57f858e32680a1997c8c346caa47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2931151
+project-id = 376145

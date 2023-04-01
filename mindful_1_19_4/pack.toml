@@ -1,11 +1,11 @@
-name = "Mindful Optimized 1.19.4"
-version = "1.0.0"
+name = "Mindful Optimized 1.19.4 v6.0.0"
+version = "6.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9ed9fa4c5ae7a233a2732412d489388472c169633d8ec28462654ec4903773d"
+hash = "71891d05bfcf1914e4891ab0a01e1233f44d479bd0d8f6860d182e2893373046"
 
 [versions]
 fabric = "0.14.18"

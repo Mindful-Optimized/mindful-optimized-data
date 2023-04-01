@@ -1,0 +1,14 @@
+name = "Log More Info"
+filename = "log_more_info-1.0.0-1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/jYj3IoWo/versions/fh2pcVlw/log_more_info-1.0.0-1.19.jar"
+hash-format = "sha512"
+hash = "d714903cb12b231ef89ebcb5fbf71da44d1e4a4a472063972659a0ec62078a3040b4c5accb08d80c02ee6a577b48f3b31d61512daef03ab8f7a6bad618abeafc"
+
+[update]
+[update.modrinth]
+mod-id = "jYj3IoWo"
+version = "fh2pcVlw"

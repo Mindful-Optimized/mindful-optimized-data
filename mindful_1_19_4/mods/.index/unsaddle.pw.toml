@@ -1,0 +1,14 @@
+name = "Unsaddle"
+filename = "unsaddle-0.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/45F9B0j8/versions/WIaNBvsO/unsaddle-0.2.1.jar"
+hash-format = "sha512"
+hash = "a7da4d02dc6332c840d650c5b0a639198d6dccdc9f69d771c38d45518836b2d87d0c8854a0430d9f9945bcb0248faa4e42bf73b1edcb2ce3c5b330d87c031963"
+
+[update]
+[update.modrinth]
+mod-id = "45F9B0j8"
+version = "WIaNBvsO"

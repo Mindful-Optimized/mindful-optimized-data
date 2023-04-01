@@ -1,0 +1,14 @@
+name = "Low Fire"
+filename = "lowfire-fabric-1.19.3-3.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Gou1gmGj/versions/CNIY8LIz/lowfire-fabric-1.19.3-3.0.1.jar"
+hash-format = "sha512"
+hash = "6fae5747fe81f7aa167c1617d9f4b2b61311f952c830e9813c169ae7f83d3ccc3c80fec2ee30c58711bdab56780249798dd8b9d11d2c690c9485df972e3348cc"
+
+[update]
+[update.modrinth]
+mod-id = "Gou1gmGj"
+version = "CNIY8LIz"

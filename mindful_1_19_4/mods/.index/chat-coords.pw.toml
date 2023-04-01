@@ -1,0 +1,14 @@
+name = "Chat Coords"
+filename = "chat-coords-0.3.2303.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tCwzXT0s/versions/oAc5spXB/chat-coords-0.3.2303.jar"
+hash-format = "sha512"
+hash = "826df93d0552aa082c47f05ae7d523833a919a5f32d93c6bea3fb710d5cc0d63dc93fd0a9a0928e7f7bf070aa3cccc8861b6017d259ce20c72fddde8f502f788"
+
+[update]
+[update.modrinth]
+mod-id = "tCwzXT0s"
+version = "oAc5spXB"

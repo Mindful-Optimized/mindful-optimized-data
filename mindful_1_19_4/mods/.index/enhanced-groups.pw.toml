@@ -1,0 +1,14 @@
+name = "Simple Voice Chat Enhanced Groups"
+filename = "enhanced-groups-1.19.4-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1LE7mid6/versions/QjK3ziJM/enhanced-groups-1.19.4-1.1.0.jar"
+hash-format = "sha512"
+hash = "32d3489f40cd3d6960f0047b89375f9bd739c3d30e9ba4cade87f827324edf7402ef7db1b243a02cb4a178b40add9bb31c6295fc34b6ea6c0959cd740faa1756"
+
+[update]
+[update.modrinth]
+mod-id = "1LE7mid6"
+version = "QjK3ziJM"

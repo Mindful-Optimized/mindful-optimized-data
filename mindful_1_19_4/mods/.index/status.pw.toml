@@ -1,0 +1,14 @@
+name = "Status"
+filename = "status-1.19.4-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b93awgkg/versions/FgQ8VhtZ/status-1.19.4-1.0.0.jar"
+hash-format = "sha512"
+hash = "a0322b3f396d7bd4b21d49f78bcccac2028c7a39422b57fa449719d300a81d5dc719ffb73d31960606c898c311129526c129fcfb443b19b8d9b8f49d246ca34c"
+
+[update]
+[update.modrinth]
+mod-id = "b93awgkg"
+version = "FgQ8VhtZ"

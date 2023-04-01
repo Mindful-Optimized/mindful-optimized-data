@@ -1,0 +1,14 @@
+name = "Clean F3"
+filename = "CleanF3-0.2.2 for mc 1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/te5tIpkS/CleanF3-0.2.2 for mc 1.19.4.jar"
+hash-format = "sha512"
+hash = "72ca3842b9fc57c1d2ae380b4e2ba02a0106946fde8725c05eab0e81db22fb79e9175c10b6124d96a7d560ed1d415451730cec4ee4009d858486451f22198eaf"
+
+[update]
+[update.modrinth]
+mod-id = "5lvjfaRs"
+version = "te5tIpkS"

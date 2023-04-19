@@ -1,0 +1,10 @@
+{
+  "serverUri": "wss://world-host.jemnetworks.com:9646",
+  "showOnlineStatus": false,
+  "enableFriends": true,
+  "enableReconnectionToasts": false,
+  "friends": [
+    "ad93ac14-5e76-4a10-9d73-7786d9ad4bbd",
+    "054d2361-25bf-4b71-b502-785c83aca908"
+  ]
+}

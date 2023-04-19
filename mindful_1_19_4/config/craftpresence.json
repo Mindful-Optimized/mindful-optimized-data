@@ -3,6 +3,7 @@
   "_schemaVersion": 3,
   "_lastMCVersionId": 762,
   "generalSettings": {
+    "detectATLauncherInstance": true,
     "detectCurseManifest": true,
     "detectMultiMCManifest": true,
     "detectMCUpdaterInstance": true,
@@ -11,11 +12,11 @@
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "668818220207308861",
-    "defaultIcon": "mindful",
-    "enableJoinRequests": true,
-    "partyPrivacyLevel": 0,
+    "defaultIcon": "grass",
+    "enableJoinRequests": false,
+    "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
-    "resetTimeOnInit": true,
+    "resetTimeOnInit": false,
     "autoRegister": false
   },
   "biomeSettings": {
@@ -45,98 +46,10 @@
     }
   },
   "dimensionSettings": {
-    "fallbackDimensionIcon": "mindful",
+    "fallbackDimensionIcon": "unknown",
     "dimensionData": {
       "default": {
-        "textOverride": "&icon&{dimension.name}",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
-      "overworld_caves": {
-        "textOverride": "&icon&{dimension.name}",
-        "iconOverride": "mindful",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
-      "the_nether": {
-        "textOverride": "Nether",
-        "iconOverride": "the_nether",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
-      "the_end": {
-        "textOverride": "{dimension.name}",
-        "iconOverride": "the_end",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
-      "overworld": {
-        "textOverride": "{dimension.name}",
-        "iconOverride": "overworld",
+        "textOverride": "In the {dimension.name}",
         "data": {
           "enabled": true,
           "useAsMain": false,
@@ -160,33 +73,11 @@
   },
   "serverSettings": {
     "fallbackServerIcon": "mindful",
-    "fallbackServerName": "Minecraft Server",
-    "fallbackServerMotd": "A Minecraft Server",
+    "fallbackServerName": "Mindful SMP",
+    "fallbackServerMotd": "Wild Update",
     "serverData": {
-      "mc.mindfulsmp.com:46960": {
-        "textOverride": "{server.name}",
-        "iconOverride": "mindful",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
       "default": {
-        "textOverride": "Playing on {server.name}",
+        "textOverride": "Playing on Mindful SMP",
         "data": {
           "enabled": true,
           "useAsMain": false,
@@ -206,9 +97,8 @@
           }
         }
       },
-      "Mindful.mc.gg": {
-        "textOverride": "Playing on {server.name}",
-        "iconOverride": "mindful",
+      "mc.mindfulsmp.com": {
+        "textOverride": "Playing on Mindful SMP",
         "data": {
           "enabled": true,
           "useAsMain": false,
@@ -254,6 +144,7 @@
     },
     "loadingData": {
       "textOverride": "Loading...",
+      "iconOverride": "mindful",
       "data": {
         "enabled": true,
         "useAsMain": false,
@@ -317,7 +208,6 @@
     }
   },
   "advancedSettings": {
-    "enableCommands": true,
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
@@ -328,12 +218,75 @@
     "refreshRate": 2,
     "roundSize": 3,
     "includeExtraGuiClasses": false,
-    "allowPlaceholderPreviews": false,
+    "allowPlaceholderPreviews": true,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
       "guiData": {
         "default": {
-          "textOverride": "In &gui&",
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "GuiReplayOverlay": {
+          "textOverride": "{player.name} is editing a replay",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "GuiReplayViewer": {
+          "textOverride": "{player.name} is browsing replays",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "GuiVideoRenderer": {
+          "textOverride": "{player.name} is exporting a replay ({replaymod.frames.current}/{replaymod.frames.total} frames)",
           "data": {
             "enabled": true,
             "useAsMain": false,
@@ -356,7 +309,7 @@
       }
     },
     "itemMessages": {
-      "default": "Holding &main&"
+      "default": "Holding {item.message.holding}"
     },
     "entitySettings": {
       "fallbackEntityIcon": "unknown",
@@ -409,7 +362,7 @@
     },
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
-    "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s"
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}"
   },
   "accessibilitySettings": {
     "tooltipBackgroundColor": "0xF0100010",
@@ -427,41 +380,32 @@
     "presenceData": {
       "enabled": true,
       "useAsMain": false,
-      "details": "{server.message}",
-      "gameState": "{menu.message} {biome.message} | {dimension.message}",
-      "largeImageKey": "{menu.icon}{dimension.icon}",
-      "largeImageText": "{general.version}",
-      "smallImageKey": "{server.icon}",
-      "smallImageText": "{server.message}",
+      "details": "{getFirst(server.name, pack.name)}",
+      "gameState": "{getFirst(menu.message, dimension.message)}",
+      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageText": "Mindful SMP {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
         "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
-        },
-        "button_1": {
-          "label": "Join Our Discord",
+          "label": "Join Our Discord!",
           "url": "https://discord.com/invite/3NMk7Bw"
         }
       }
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "Lautner": "https://crafatar.com/avatars/054d236125bf4b71b502785c83aca908",
-      "OwO": "https://crafatar.com/avatars/054d236125bf4b71b502785c83aca908",
-      "Steve": "https://crafatar.com/avatars/054d236125bf4b71b502785c83aca908",
-      "LautnerGames": "https://crafatar.com/avatars/ad93ac145e764a109d737786d9ad4bbd",
-      "209.58.136.58": "https://api.mcsrvstat.us/icon/209.58.136.58",
-      "mc.mindfulsmp.com": "https://api.mcsrvstat.us/icon/mc.mindfulsmp.com",
-      "mc.Hypixel.net": "https://api.mcsrvstat.us/icon/mc.Hypixel.net"
+      "Lautner": "https://mc-heads.net/avatar/054d236125bf4b71b502785c83aca908",
+      "mc.mindfulsmp.com": "https://api.mcsrvstat.us/icon/mc.mindfulsmp.com"
     },
     "dynamicVariables": {
       "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",
-      "player_info_in": "({custom.player_info_health})",
+      "player_info_in": "({custom.player_info.health})",
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
       "player_info_health": "Health: {player.health.current}/{player.health.max}",

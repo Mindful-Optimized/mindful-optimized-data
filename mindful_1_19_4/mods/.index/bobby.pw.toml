@@ -1,14 +1,14 @@
 name = "Bobby"
-filename = "bobby-4.0.4.jar"
+filename = "bobby-4.0.5.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/RdC7wHfS/bobby-4.0.4.jar"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/fdmNcTR4/bobby-4.0.5.jar"
 hash-format = "sha512"
-hash = "a8376b38d5140b3df8e86f09ba3aa2b22ccfdf49f32e329f17e71bd8ebe46365e72fdc5e271c8ab6353f95c4b42f0bbf60e114195da7f15e21b32ae5475c7a11"
+hash = "62e6409d1ce4e0555778c7836212b7d96944a4c2433369832762a226fbc7e8e714e457ec0ddd94b9e764ae970fbc9a5f5a266a2429bdd1b62fd2e4143a2a4a42"
 
 [update]
 [update.modrinth]
 mod-id = "M08ruV16"
-version = "RdC7wHfS"
+version = "fdmNcTR4"

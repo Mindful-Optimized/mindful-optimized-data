@@ -2,9 +2,9 @@
   "modpacks": [
     {
       "id": "mindful_1_19_4",
-      "name": "Mindful Optimized 1.19.4 v6.0.1",
+      "name": "Mindful Optimized 1.19.4 v6.0.2",
       "description": "Client-side optimization modpack with extra tweaks",
-      "version": "6.0.1"
+      "version": "6.0.2"
     }
   ]
 }

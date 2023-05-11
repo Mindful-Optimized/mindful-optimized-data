@@ -1,5 +1,4 @@
 {
-  "allowIllegalTexturePaths": false,
   "illegalPathSupportMode": "None",
   "enableCustomTextures": true,
   "enableCustomBlockEntities": true,
@@ -43,5 +42,6 @@
     "IRIS"
   ],
   "hideConfigButton": false,
-  "disableVanillaDirectoryVariantTextures": false
+  "disableVanillaDirectoryVariantTextures": false,
+  "use3DSkinLayerPatch": true
 }

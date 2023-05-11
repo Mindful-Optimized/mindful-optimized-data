@@ -1,0 +1,8 @@
+Github Repo URL (MUST END URL WITH A SLASH):
+https://raw.githubusercontent.com/Mindful-Optimized/ModpackUpdate/main/
+Current Modpack Version
+6.1.0
+Modpack Name:
+Mindful Optimized
+Expand Button (y/n) (doesn't reposition the button!):
+n

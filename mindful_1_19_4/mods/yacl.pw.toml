@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "yet-another-config-lib-forge-2.5.1+1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2a2bb058b596a965ea543f89e9bffd0977afd4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4523736
+project-id = 667299

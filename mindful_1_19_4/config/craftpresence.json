@@ -381,7 +381,7 @@
       "enabled": true,
       "useAsMain": false,
       "details": "{getFirst(server.name, pack.name)}",
-      "gameState": "{getFirst(menu.message, dimension.message)}",
+      "gameState": "{getFirst(menu.message, dimension.message)} | {(biome.message)}",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
       "smallImageKey": "{getFirst(server.icon, pack.icon)}",
@@ -398,7 +398,8 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "Lautner": "https://mc-heads.net/avatar/054d236125bf4b71b502785c83aca908",
-      "mc.mindfulsmp.com": "https://api.mcsrvstat.us/icon/mc.mindfulsmp.com"
+      "mc.mindfulsmp.com": "https://api.mcsrvstat.us/icon/mc.mindfulsmp.com",
+      "LautnerGames": "https://mc-heads.net/avatar/ad93ac145e764a109d737786d9ad4bbd"
     },
     "dynamicVariables": {
       "default": "Example Text",

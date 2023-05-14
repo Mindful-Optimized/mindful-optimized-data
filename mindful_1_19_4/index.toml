@@ -938,6 +938,34 @@ file = "options.txt"
 hash = "8662f4678354bd767102b8764c8917a1db950a0f4556ec842c897fd5c51a6a1f"
 
 [[files]]
+file = "resourcepacks/FA+All_Addons-v1.0.zip"
+hash = "5ea49dc0214b9c9673c5d1dcf8ca3b2747c7701a604e87cd5f34a665d064a303"
+
+[[files]]
+file = "resourcepacks/FA+Creepers-v1.0.zip"
+hash = "5bfa8370a9ab22b922cb74e472bc2439d5682893ca585061a5d0dc35d262d9ca"
+
+[[files]]
+file = "resourcepacks/FA+Details-v1.0.zip"
+hash = "3b1127d896654eab35b08fa1be84a9e778193ed1b13fd26e7c79a1f00e7ddec2"
+
+[[files]]
+file = "resourcepacks/FA+Emissive-v1.0.zip"
+hash = "111b3ee4b43a193e95f7e074121d6b22167917b86f566658f0b342dd863c0caa"
+
+[[files]]
+file = "resourcepacks/FA+Quivers-v1.0.zip"
+hash = "2cf517b2c27a4a3f216a096969eb7746e59c6ce9f57aecb7942778a69cdb63d1"
+
+[[files]]
+file = "resourcepacks/FA+Slamacow-v1.0.zip"
+hash = "1ae83fa708d4a49467d9a56bfba37f3e5181044433e17d6379fbc99a89d78dfd"
+
+[[files]]
+file = "resourcepacks/FA+Spiders-v1.0.zip"
+hash = "c9c6491664633b94d359c2838b1ba0e508eb70e9b6b86b17df3a14dbdcb3ccb4"
+
+[[files]]
 file = "resourcepacks/Mindful Resource Pack v0.2.zip"
 hash = "8436caf5f4bc7d21e45b0a348635f3b02a0f6f77918183b08be964c17461850f"
 

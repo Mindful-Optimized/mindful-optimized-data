@@ -1,0 +1,13 @@
+name = "Nether Coords (Fabric)"
+filename = "NetherCoords v2.0.1 for 1.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb247730326e21d4f486f8fd2b36f33278d7cec2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4497517
+project-id = 670779

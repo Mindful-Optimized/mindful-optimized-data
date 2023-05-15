@@ -457,6 +457,10 @@ file = "icon.png"
 hash = "46bd4b5dc013d259bb98660c7c94c68b00ba8be107e665dd707ab2f3b81e7b51"
 
 [[files]]
+file = "mods/3dskinlayers-fabric-1.5.3-mc1.19.4.jar"
+hash = "353f2bcf550bc45ee74dcfbe202ee7113f7123889e1e0ee24e867394f1c1374d"
+
+[[files]]
 file = "mods/CleanF3-0.2.2 for mc 1.19.4.jar"
 hash = "b335fe2a41045f6d9fbb676d1b5e45d538eb0b8275ba0a422822fccf2744b9a9"
 
@@ -628,9 +632,8 @@ hash = "6079c78bcba200ea11dce4d156f97a415ba4950124bc43bdbb97904e1bd072dd"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "88d29eca7c21ceced87af931d013fbe8be6503f7b7e68630abfa66d61810334e"
-metafile = true
+file = "mods/entityculling-fabric-1.6.2-mc1.19.4.jar"
+hash = "607039475b49ff9b4125c3f7c6f91e10f6b71ec2e071ef4651a604c7624dbc19"
 
 [[files]]
 file = "mods/extreme-sound-muffler-fabric-official.pw.toml"
@@ -789,6 +792,10 @@ hash = "48b71ea1146efd13eea80e8d04e9e9aae2044b730cdb8f99ea01e94ca37756e0"
 metafile = true
 
 [[files]]
+file = "mods/nnvf-0.1.3.jar"
+hash = "e8b4668710aa992efa21e7e385e7543eb484c32562caddb117be570fc7be3487"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "009ca1a951bc5a226998d9186d5d61dc180d4afd82d237b3804e415e71102871"
 metafile = true
@@ -799,14 +806,8 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
-file = "mods/no-night-vision-flickering.pw.toml"
-hash = "98a4803805da87d79e08487f877cfd813412addc5b01b701ffbcead56faa13f5"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "1008b77fa9edd6781691471271e1b948ebb7009e1b82554ac33c0a5863eba55e"
-metafile = true
+file = "mods/notenoughanimations-fabric-1.6.3-mc1.19.4.jar"
+hash = "955717a753a6ca846e229c0d69c081b41c308682820039dafbcf1ea542f8bff2"
 
 [[files]]
 file = "mods/one-time-overrides-v1.0.1.jar"
@@ -856,23 +857,17 @@ hash = "154a3a9924a1ce8e20a6d9811f0ff7a74669d343d2066c3ed499ac6cb3955d5e"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "a1688fb1a33db2f9962b351ca91cc14f146f9080145842c543ccb7f672f1c1c9"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "af0124542e550edfc344fe9f9f2d57f0f1637fa7128875f36b064fac379843ca"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "05e60e933d7d05ec2b6e729ba7f47af9600dd24b4c762396c820d944ddbe8b33"
-metafile = true
+file = "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar"
+hash = "d1bc81e45a5965019c8613b81f82c62020ce7ff280a490451b30ec76af5dda1a"
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "8d0fdac5cc72b5ca73bc2d84cc793f1640a6425f472ac1dcd38ab5183a0ba160"
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "05e60e933d7d05ec2b6e729ba7f47af9600dd24b4c762396c820d944ddbe8b33"
 metafile = true
 
 [[files]]
@@ -896,9 +891,8 @@ hash = "c0d1d4311769f50f779c9c7133ae99dd1c64650adc07b3924c12501a0eeed823"
 metafile = true
 
 [[files]]
-file = "mods/twitch-chat.pw.toml"
-hash = "a82951624a1f6a8b08a03d3336af108a87c9e2f4f83256cc0bf2dd821241aacc"
-metafile = true
+file = "mods/twitchchat-0.14.4b.jar"
+hash = "1c3f7f7e57279b05617820350c38cc8ce0d09869d60ee339a1d5c5ade4e94cfa"
 
 [[files]]
 file = "mods/unsaddle.pw.toml"

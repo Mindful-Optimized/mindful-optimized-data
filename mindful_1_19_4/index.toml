@@ -785,8 +785,8 @@ file = "mods/shulkerboxtooltip-fabric-3.2.5+1.19.4.jar"
 hash = "df35b4954e1e98e5a3e5ff9123a41e0f4c202b7b5218017232603190755dc05d"
 
 [[files]]
-file = "mods/sodium-extra-0.4.19+mc1.19.3-build.101.jar"
-hash = "33e16cb5e50f9d918318cb07175ab6a908272793757dfa3f565f9cb017c7fab5"
+file = "mods/sodium-extra-0.4.18+mc1.19.4-build.100.jar"
+hash = "2815b619d38e2ead26133cac934fba972b58efdd874cdab05e8fc01e431e8595"
 
 [[files]]
 file = "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar"
